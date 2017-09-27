@@ -1,10 +1,10 @@
 # firstProject
 
 #### Онлайн результат:
-    https://codeclub-depositphotos.github.io/firstProject/
+https://codeclub-depositphotos.github.io/firstProject/
 
 Скачать проект можно нажав кнопку "Clone or Download":
-![screenshot](https://image.prntscr.com/image/ViDnv_qwRxCb0nwS1bqGzQ.png | width=300)
+![screenshot](https://image.prntscr.com/image/ViDnv_qwRxCb0nwS1bqGzQ.png)
 
 ## 27/09/2017 Домашка
     1. Повторить то, что сделали на уроке (можно подглядывать).
