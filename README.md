@@ -18,7 +18,7 @@ https://codeclub-depositphotos.github.io/firstProject/
     </head>
     ```
 
-#### Домашка:
+### Домашка:
 
 1. Повторить то, что сделали на уроке _(можно подглядывать в результат)_.
 2. Смотрим: https://www.youtube.com/watch?v=tA7hYxfRLH0
@@ -31,7 +31,9 @@ https://codeclub-depositphotos.github.io/firstProject/
     - [6](https://htmlacademy.ru/courses/40/run/2)
     - [7](https://htmlacademy.ru/courses/40/run/6)
     - [8](https://htmlacademy.ru/courses/40/run/9)
+    - [9](https://htmlacademy.ru/courses/41/run/2)
 
+Если столкнетесь с трудностями, задаем вопросы в чате!
 
 ### Инструкция по установке Sublime Text:
     1. Качаем: https://download.sublimetext.com/Sublime%20Text%20Build%203143%20x64%20Setup.exe
