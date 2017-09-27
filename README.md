@@ -29,8 +29,8 @@ https://codeclub-depositphotos.github.io/firstProject/
     - [4](https://htmlacademy.ru/courses/38/run/4)
     - [5](https://htmlacademy.ru/courses/40/run/1)
     - [6](https://htmlacademy.ru/courses/40/run/2)
-    - [6](https://htmlacademy.ru/courses/40/run/6)
-    - [6](https://htmlacademy.ru/courses/40/run/9)
+    - [7](https://htmlacademy.ru/courses/40/run/6)
+    - [8](https://htmlacademy.ru/courses/40/run/9)
 
 
 ### Инструкция по установке Sublime Text:
