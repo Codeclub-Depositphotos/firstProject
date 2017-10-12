@@ -1,6 +1,6 @@
 # firstProject
 
-Общаемся в [Slack](codeclubdepositphotos.slack.com)
+Общаемся в [Slack](https://codeclubdepositphotos.slack.com)
 
 #### Онлайн результат:
 https://codeclub-depositphotos.github.io/firstProject/
